@@ -1,0 +1,2 @@
+PROG: mst
+LANG: C++
